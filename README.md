@@ -9,4 +9,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [SOLUTION](https://github.com/Jinzero10/profile-card-component.git)
-- Live Site URL: [LIVE SITE](https://your-live-site-url.com)
+- Live Site URL: [LIVE SITE](https://profile-card-jin.netlify.app/)
